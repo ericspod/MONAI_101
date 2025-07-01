@@ -1,0 +1,5 @@
+.git
+.gitignore
+MedNIST/**
+MedNIST.tar.gz
+*.jpeg
