@@ -1,5 +1,5 @@
 # MONAI_101
-Example repository with a MONAI 101 implementation
+Example repository with a MONAI 101 implementation. This is based on the [MONAI 101 tutorial notebook](https://github.com/Project-MONAI/tutorials/blob/main/2d_classification/monai_101.ipynb).
 
 ## Training
 
